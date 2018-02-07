@@ -1,0 +1,185 @@
+body {
+
+    background-color: white;
+}
+
+.navbar-default {
+    background-color: grey;
+    border-color: #ffffff;
+    margin-bottom: 0;
+    border: none;
+    margin-top: -40px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFFFFF;
+}
+
+.fa {
+    color: white;
+}
+
+.header_fa {
+    margin-right: 18px;
+}
+
+.header_div {
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 12px;
+}
+
+.slipse {
+    display: inline-block;
+}
+
+.slipse_2 {
+    margin-left: 140px;
+}
+
+.slipse_tekst {
+    margin-left: 50px;
+}
+
+.slipse_tekst h2 {
+    margin-left: 0px;
+}
+
+.all_slipse {
+    width: 75%;
+    float: right;
+    padding-left: 110px;
+}
+
+.pagenav_text {
+    width: 20%;
+    margin-top: 80px;
+}
+
+.textbox_btm {
+    width: 67%;
+    float: right;
+    margin-top: -300px;
+}
+
+.textbox_btm p {
+    margin-left: 50px;
+}
+
+
+
+.prod_nav li a {
+    background-color: grey;
+}
+.prod_nav li{
+    background-color: grey;
+
+/* --------------- PRODUKTER SIDEN ------------------ */
+
+.prod_sec {
+    width: 78%;
+    float: right;
+}
+
+.prod_slips {
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+}
+
+.prod_slips img {
+    width: 150px;
+    height: 200px;
+    margin-left: 55px;
+}
+
+/* --------------- KONTAKT SIDEN ------------------ */
+
+.formular {
+    width: 50%;
+    display: inline-block;
+}
+
+.formular input {
+    margin-right: 150px;
+    margin-bottom: 20px;
+}
+
+.form_label {
+    width: 40%;
+    display: inline-block;
+}
+
+.form_input {
+    width: 60%;
+    float: right;
+}
+
+.form_label h3 {
+    display: block;
+    margin-right: 20px;
+}
+
+.input_navn {
+    margin-top: 20px;
+}
+
+.kontakt_sec {
+    width: 75%;
+    float: right;
+}
+
+.kon_slips {
+    display: inline-block;
+}
+
+.map_sec {
+    width: 75%;
+    float: right;
+    margin-top: 20px;
+}
+
+.map_text {
+    width: 50%;
+    display: inline-block;
+}
+
+.map_img {
+    width: 50%;
+    float: right;
+}
+
+/* --------------- OMSLIPSEKNUDEN SIDEN ------------------ */
+
+.intro_tekst {
+    width: 70%;
+    float: right;
+    margin-top: -35px;
+}
+
+.intro_tekst h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}
+
+.om_img {
+    width: 50%;
+    float: right;
+    margin-top: -226px;
+}
+
+.emp_sec {
+    width: 78%;
+    float: right;
+    margin-top: -200px;
+}
+
+.emp_div {
+    display: inline-block;
+    margin-left: 60px;
+}
+
+.emp_div img {
+    margin-right: 50px;
+}
